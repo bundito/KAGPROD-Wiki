@@ -1,0 +1,46 @@
+===== Creating Folders =====
+
+Folders, obviously, are the way we keep our files organized. There's a strict [[hierarchy]] for project files and folders. However, within your own [[home-folders|home folders]] you can create files however you like.
+
+==== Creating Folders (Standard Users) =====
+
+Your home folder is in **homes/{your username}**. This is your private workspace. 
+
+To create a folder, click the **Create Folder** button in the toolbar of File Station.
+
+{{:create-folder-user.png?400|}}
+
+You'll be simply asked for a folder name. Enter it in the box as shown. Spaces are allowed.
+
+{{:create-foldername-user.png?400|}}
+
+That's it. Your folder is ready for your use.
+
+==== Creating Shared Folders (Admins Only) ====
+
+To create a new shared (project) file, you must be a server administrator. At present, this is Kristen and Dito. 
+
+Shared folders are top-level folders accessible by all users and there will likely be one shared folder per project. 
+
+In this case, click the **Create** button and choose **Create New Shared Folder**. 
+
+{{:create-shared-folder.png?400|}}
+
+Shared folders have a lot of options to choose from, but we don't need to worry about them. The most important one to have checked is **Enable Recycle Bin**. This will allow deleted files to be moved to the recycle bin instead of permanent deletion. Give the folder a name and an optional description.
+
+{{:create-shared-folder-props.png?400|}}
+
+Click **OK**. Next, you have to grant permissions to your non-admin users to read and write files in this directory. In this example, our non-admin users are //kakers// and //sven//.
+
+Normally, you want to grant them read & write access, unless you have a specific reason for another option.
+
+Check the **Read/Write** boxes in the row for each of their names.
+
+{{:create-folder-permissions.png?400|}}
+
+Once you click **OK**, the folder will appear in the top-level directory of the server. It's automatically accessible to everyone on the server.
+
+{{:shared-folder-created.png?400|}}
+
+I heartily encourage producing //Project UFO//. We all know the truth is out there.
+

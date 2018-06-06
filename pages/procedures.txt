@@ -1,0 +1,27 @@
+All working files should be saved on this server. No more Dropbox or Google Drive necessary. This server is safe and redundantly secure, so your files are safe. 
+
+Login at: **http://kagprod.synology.me:5000/**
+{{ :hal-login.png?400 |}}
+
+
+> A note on names:
+> "HAL9000" is the **name** of the server, but all the connections are all **kagprod**. Sorry if there's any confusion.
+
+
+You should have been given a username and password. Enter them now.
+
+Close the two help windows, for now. They'll reappear the next time you log in.
+
+Once logged in, you should see a desktop similar to this:
+
+{{ :dsm-desktop.png?400 |}}
+
+This desktop is officially known as **Disk Station Manager**, or **DSM**. You'll probably find that name in the included help function.
+
+You will be doing most of your work in [[File Station]]. This is where you will [[upload]] and [[download]] files. Everyone works in the same public space, so please be careful with files belonging to others.
+
+-----
+
+==== Links ====
+
+Leave this wiki and open the [[http://bundito.synology.me:5000/|web interface]] now.

@@ -1,0 +1,105 @@
+===== Editing the Wiki =====
+
+If you wish to add to or modify this wiki, it's a very simple process. First off, make sure you are [[login|logged in]].
+
+First off, simply type out your text. We'll worry about making links once you've written your document or made your changes.
+
+==== Basic Links ====
+
+Links within a wiki are surrounded by double square brackets, like this:
+
+<code>
+[[pagename]]
+
+or
+
+[[pagename|Descriptive text]]
+</code>
+
+For example, let's say I wanted to link to the [[copy]] page. That would be formatted as:
+
+<code>
+to the [[copy]] page
+</code>
+
+If I worded things differently and wanted to link to the page about [[copy|copying files]], it would be formatted as:
+ 
+<code>
+page about [[copy|copying files]], it would be...
+</code>
+
+==== Finding Pagenames ====
+
+There's a simple trick to this. Look near the top of the page and you'll see a breadcrumb trace that's comprised of all the page names. For example, you can see that this page is called **edit_wiki**
+
+{{:trace.png?400|}}
+
+Click on any link in that chain to be taken there immediately.
+
+Once you're there, open the editor by pressing the pencil icon on the right side of the screen.
+
+{{:edit-pencil.png?400|}}
+
+==== Editing Existing pages ====
+
+Once you click the pencil icon, the editor will open. This should look familiar if you've used a web forum recently. It will apply basic formatting for you, in a graphical interface. This saves you having to learn all the wiki syntax.
+
+{{:wiki-editor.png?400|}}
+
+Don't worry about making incorrect changes. The wiki saves revisions automatically. We can always revert a change, or combine your changes with the original text. It's no big deal. Feel free to put a note in the **Edit Summary** box if you feel it's necessary. 
+
+==== Using Images ====
+
+Use lots of screenshots and other images! People are visual learners, and there's nothing like a picture to make your point clear.
+
+To use an image, click the icon that looks like a picture frame in the editor toolbar. It's fourth from the end.
+
+You'll get a popup window titled **Media Files**
+
+{{:media-files-initial.png?400|}}
+
+Press the **Upload File** button to choose a file. Once you've chosen a file, you can change it's name - the name by which it'll be stored in the wiki. Choose something easy to use and remember. For example, Mac screenshots are named "Screenshot 2017 08-20 at 02:21.png", which isn't at all descriptive. I renamed it to "trace.png" so I would know what it was actually a picture of.
+
+{{:media-files-rename.png?400|}}
+
+Once you've renamed it, click **Upload** and then **Done**. Your file will upload.
+
+As soon as that's done, click on the new image to insert it into your document. But first, you must choose its size and alignment.
+
+Unless you have a specific reason, you can leave these options at the default:
+
+{{:media-files-link-settings.png?400|}}
+
+You'll be returned to the editor and see some cryptic wiki syntax. This alone is a good reason for using the toolbar to edit rather than trying to learn the syntax.
+
+<code>
+{{:media-files-link-settings.png?400|}}
+</code>
+  
+Don't worry about what any of the symbols mean. If you want to remove the file, just erase the entire tag. If you want to replace it, erase the tag, leave your cursor at the insert location, and repeat the process above.
+
+==== Advanced Syntax ====
+
+If you're really into this stuff, there's a full page describing all the [[wiki:syntax|wiki syntax]] available.
+
+There's a link to at the top of every edit page. Happy reading.
+
+===== Starting A New Page =====
+
+Type out some text, or pick some text on an existing page. Put square brackets around it, like this:
+
+<code>
+on an [[existing]] page
+</code>
+
+It will render and look like this:
+
+on an [[existing]] page
+
+It's red and underlined, because you've created a link to a page ("existing") that doesn't yet exist.
+
+You'll get taken to the blank page editor, which looks like this:
+
+{{:no-page.png?400|}}
+
+Click the pencil icon and start editing. For information on how to edit, begin again from the top of this page and edit away!

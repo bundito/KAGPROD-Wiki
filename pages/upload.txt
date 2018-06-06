@@ -1,0 +1,31 @@
+====== Uploading Files ======
+
+
+When you choose to upload a file, you have the option to **skip** or **overwrite**. This refers to what action to take if the file(s) you are uploading already exist. **Skip** will skip existing files, while **overwrite** will wipe out the existing file on the server and replace it with your new upload.
+
+{{ :screen_shot_2017-08-02_at_12.56.19_pm.png?400 |}}
+
+Simply choose one of the two options and you will be prompted for files to upload.
+You'll get a standard OSX Finder window or Windows Explorer file chooser. Select the files you want to upload and click **Open**. You can use standard functions like Shift-Click or Option/Ctrl-Click to choose multiple files at once.
+
+{{ :upload-screen.png?400 |}}
+
+
+In the top left corner of the screen is the Download Progress indicator. Clicking it will show you the progress of the files you are uploading.
+
+{{ :uploading-progress.png?400 |}}
+
+The upload progress arrow will also show you your file upload summary. The system refers to this as the File Task Monitor. You can access this view by clicking "All" on a file transfer list, or at any time when an upload is not in progress.
+
+{{ :file-status.png?400 |{{ :file-status.png?400 |}}
+
+You will see a brief notification in the upper left of the screen when a file upload is complete. It's quick enough that it's hard to capture a screenshot. You'll see it, though. If you miss one, check the File Task Monitor view to make sure everything uploaded correctly.
+
+
+
+----
+
+See also: 
+  * [[download|Downloading Files]]
+  * [[copy|Copying files]]
+  * [[delete|Deleting files]]

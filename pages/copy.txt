@@ -1,0 +1,34 @@
+====== Copying or Moving Files ======
+
+Copying and moving files in [[file_station|File Station]] is just as easy as copying or moving files in Windows Explorer or OSX Finder.
+
+=== Copy versus Move ====
+
+Copying and moving files follow the exact same steps. The only difference is that **copy** will leave the original files behind and put a copy in the destination; **move** will erase the original files and only preserve the copy in the destination direction.
+
+=== How To ===
+
+
+To begin, select the files you want to work with:
+
+{{:files-chosen.png?400|}}
+
+Right-clicking on the files (or pressing the **Action** button) will bring up a contextual menu. Move down until you see **Copy to.../Move to...**.
+
+{{:copy-move.png?400|}}
+
+You're then asked to choose a destination folder. In this example, we'll be moving our three items into the **home/Public** directory. Your files and folders will be very different.
+
+Use the triangle buttons to expand and collapse the directories as needed. Then select the destination.
+
+{{:copy-move-dest.png?400|}}
+
+You'll see a progress bar in the center of the screen.
+
+{{:copy-progress.png?400|}}
+
+And then, the process is complete. If you've chosen **move**, the screen will refresh and the moved files will be absent.
+
+
+
+

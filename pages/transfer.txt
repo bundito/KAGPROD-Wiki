@@ -1,0 +1,35 @@
+===== Transferring Data From a USB Drive =====
+
+{{:usb-on-disktation.jpg?400|}}
+
+This is what it's all about. Getting that precious, tasty data off of potentially fragile and flaky external hard drives onto the KAG storage system. It's actually pretty easy, considering Synology has handily provided a USB port on the bottom right corner of the front of the box. (There are two more on the back as well.)
+
+{{:usb-front-port.jpg?400|}}
+
+Begin by plugging in your drive. If it needs an external power supply, connect that first. When you plug in, hopefully the "connected" light will light up on your external drive. You also need to check [[file_station|File Station]] for a couple of USB connections, like this:
+
+{{:usb-file-station.png?400|}}
+
+Typically, you want the second entry. The first entry is small and contains the technical information for connecting the drive to a Mac or PC and becoming recognized. The second entry is where all the good stuff is.
+
+Click on it and choose the files and folders you want to transfer. Follow the procedures shown in [[copy|copy/move]] for all the details.
+
+Typically, you want to skip all the folders that begin with dots (periods) in their names. Those are OSX-specific tracking files that we don't need. They'll likely be on every drive you copy from. Just ignore them.
+
+Note that a copy can take hours, especially for a large drive. Plan your day(s) accordingly. 
+
+
+===== If HAL9000 Does Not Recognize a Drive =====
+
+First off, this sucks. You can try the USB ports on the back of the storage unit, but it's unlikely to make a difference.
+
+If this happens, you'll need to connect the drive to your computer and transfer everything using FTP.
+
+Follow the procedures listed under [[ftp|FTP]]. Connect to the server and select all the folders on the USB drive (skipping those dotted files like explained above. Start the upload and go make a sandwich. It's going to take a while. The data first has to transfer to your computer over USB, and then transfer to the server over FTP. It's slow, especially for large amounts of data.
+
+
+
+
+
+
+

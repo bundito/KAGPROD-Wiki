@@ -1,0 +1,25 @@
+===== FTP Access =====
+
+If you prefer to use FTP rather than the [[web-interface|web interface]] or [[local-drive|local drive]] methods, here are the details. For this example, we're using the free [[https://filezilla-project.org/|Filezilla]] FTP client. Your client may look different, but the processes are the same.
+
+<code>
+
+Server name: kagprod.synology.me
+User name: (The username you were given to access the server)
+Password: (Your password)
+Port: (Leave blank for the default)
+
+</code>
+
+Here is the FTP client ready to connect:
+
+{{ :ftp-ready.png?400 |}}
+
+Once connected, the file server's files and folders will be listed in the **remote site** view of your FTP client:
+
+{{ :remote-site.png?400 |}}
+
+You may now use the standard **Upload** and **Download** functions of your FTP client.
+
+When you are done, close your client or choose the **Disconnect** function.
+

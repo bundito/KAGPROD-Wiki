@@ -1,0 +1,24 @@
+====== Downloading Files ======
+
+Downloading files is very simple. It's just a matter of choosing them from File Station and selection the **Download** Action.
+
+File station will look like this:
+
+{{ :file-station.png?400 |}}
+
+Choose the file(s) you want to download. You can use standard Windows Explorer or OSX Finder to choose multiple files:
+
+{{ :files-chosen.png?400 |}}
+
+In the menu bar of File Station, find the **Action** dropdown option. Choose **Download**.
+
+{{ :download-chosen.png?400 |}}
+
+You will be prompted for a save destination, just like any other web download. That's all there is to it.
+
+
+----
+
+See also:
+  * [[upload|Uploading files]]
+  * [[delete|Deleting files]]

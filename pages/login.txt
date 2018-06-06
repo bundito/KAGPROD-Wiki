@@ -1,0 +1,43 @@
+===== Logging In =====
+
+When you click the **Log In** link, you'll be brought to the login page. Simply fill in your username and password.
+
+{{:login-page.png?400|}}
+
+You'll be logged in and ready to begin [[edit_wiki|editing wiki pages]]. Have fun!
+
+==== Forgotten Password ====
+
+If you've forgotten your password, click the **Request a password** link.
+
+You will receive a confirmation email with a long confirmation link:
+
+{{:reset-email.png?400|}}
+
+Click that link and you'll be brought to a page that will send a new password to your email address. Enter your username:
+
+{{:reset-username.png?400|}}
+
+
+You will receive an email with your username and a temporary password.
+
+{{:register-email.png?400|}}
+
+Follow the link (the screenshot shows Scott's test server) and login using your username and the temporary password.
+
+{{:register-login.png?400|}}
+
+Once you've logged in, change that temporary password to one you will easily remember. Click on the **Update Profile** link at the top right side of the page.
+
+{{:register-click-change.png|}}
+
+You will be taken to the Change Profile page, where you can change your password (along with a few other options). Fill in your new password (twice) along with your current password, which was in the confirmation email.
+
+{{:register-change-profile.png?400|}}
+
+Assuming your new passwords match, you'll see a message that your profile has been updated.
+
+{{:register-success.png?400|}}
+
+Click **Log Out** and [[login|log back in]] with your new sensible password.
+

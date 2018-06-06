@@ -1,0 +1,14 @@
+# users.auth.php
+# <?php exit()?>
+# Don't modify the lines above
+#
+# Userfile
+#
+# Format:
+#
+# login:passwordhash:Real Name:email:groups,comma,seperated
+
+
+bundito:$1$chf6MuQg$YCs8WGK3ZcUmjJdHJP3Fs0:Dito:bundito@gmail.com:admin,user
+dito_alt:$1$gp7kSZcW$OjLTi75djll0KXlL8NjCB1:Bundis Dito:bundito+login@gmail.com:user
+test:$1$ZU7JZrCM$QcnecUEt2fW1oKX/1/oha/:The Test Man:spharvey@gmail.com:user,admin

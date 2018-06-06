@@ -1,0 +1,13 @@
+===== Folder and File Hierarchy =====
+
+All projects are stored at the KAG Productions folder of the fileserver. 
+
+{{:hierarchy-files-folders.png?400|}}
+
+Within each project, the structure may vary depending on the client, project, or when it was worked on. Consult Kristen or use your best judgment when working in these directories.
+
+When [[transfer|transferring data from a USB drive]], copy directly into the KAG Productions folder. The USB drives contain the hierarchy we're used to from those projects, so we're just making an exact duplicate.
+
+
+
+

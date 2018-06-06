@@ -1,0 +1,8 @@
+File Station is the server's main file manager. It's much like Windows Explorer or the Finder on OSX. It allows for the [[upload|uploading]] and [[download|downloading]] of files. You can also [[copy|move]], [[copy]] and [[delete]] files on the server.
+
+This is the main view for File Station:
+
+{{ :file-station.png?400 |}}
+
+Alternatives to using File Station are [[FTP]] or connecting to the server as if were a [[webdav|local drive]]. Each method has advantages and disadvantages.
+

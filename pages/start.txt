@@ -1,0 +1,27 @@
+====== KAG Productions ======
+
+Welcome to KAG Productions' wiki. Here is where we'll store all the procedures and documentation for using this file server.
+
+Main sections include:
+
+[[usage|Using This Wiki]]
+
+A list of the various [[connections]] to this system.
+
+[[hierarchy|Folder and File Hierarchy]] - the standardized structure of files and folders to be used for each project.
+
+[[transfer|Transferring data]] from a USB drive.
+
+Attaching the server as a [[shared-drive|shared drive]] on your computer.
+
+:!: [[fcp|Sharing Final Cut Pro X]] libraries.
+
+[[web-interface|Web Interface]] for [[upload|uploading]] and [[download|downloading]] files.
+
+Using an [[ftp|FTP client]] instead of the web interface.
+
+File operations, such as [[copy|copying]], [[copy|moving]], and [[delete|deleting]] files (web interface).
+
+[[edit_wiki|Adding to this Wiki]] - Add your own pages, or add additional notes for your colleagues.
+
+**Bonus**: There's an "easter egg" hidden somewhere in this documentation. Consider it a way to get you to read this important material. You'll know it when you find it. Contact Scott (info under [[contacts|Contact]]) and let him know!

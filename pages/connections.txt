@@ -1,0 +1,26 @@
+===== Connections To This System =====
+
+Connection via [[local-drive|Mac finder]]:
+
+<code>
+http://kagprod.synology.me:5005/
+</code>
+
+[[web-interface|Web interface view]] (best for copying & moving files):
+
+<code>
+http://kagprod.synology.me:5000/
+</code>
+
+[[FTP]]:
+<code>
+server: kagprod.synology.me
+username: <your username>
+password: <your password>
+port: <leave blank or use default>
+</code>
+
+This wiki:
+<code>
+http://kaprod.synology.me/
+</code>

@@ -1,0 +1,60 @@
+===== Sharing FCPX Libraries =====
+
+Annoyingly, FCPX does not like shared network folders. So we have to cheat the system. We do this by using disk "images", which are files you can mount like a regular disk. We'll keep our libraries on these fake disks and swap them back and forth.
+
+In each project, you'll find a file named something like 
+
+<code>
+<projectname>.sparseimage
+</code>
+
+(The images shown below are using test disks, so disregard the names and the file locations.)
+
+{{:fcp-diskimage.png?400|}}
+
+Drag this file out of the Finder and onto your desktop.
+
+{{:fcp-drag-out.png?400|}}
+
+It may take a few minutes to transfer.
+
+Once it's done, check your desktop for a file that looks like this:
+
+{{:fcp-sparse-icon.png?400|}}
+
+Double-click that file to "mount" the fake disk as if it were a real, regular disk. Once mounted, you'll see an icon on your desktop like this:
+
+{{:fcp-mounted-disk.png?400|}}
+
+Now you've got that sparseimage file mounted as if it were a disk. From here, you'll use this disk with Final Cut Pro. I'm no expert on FCP, but I can show the very basic usage.
+
+If a library for a video project hasn't already been started, go to **File > New Library** and make sure your fake disk is selected under **Devices**.
+
+{{:fcp-new-project.png?400|}}
+
+Your file will be created and you can work normally.
+
+==== If A Project Already Exists ====
+
+Open it by starting it FCP, and choosing the fake sparseimage disk from **Devices**, just like shown above. double-click your project file and start work like normal.
+
+===== When You Are Finished Editing =====
+
+Unmount the fake disk by dragging the disk drive icon to the trash.
+
+{{:dismount.png?200 |}}
+
+The drive will be disconnected from your system and return to being just an ordinary file.
+
+Drag the matching .sparseimage file back into your Finder connection to the server. 
+
+Wait for it to process. Again, it may take a few moments.
+
+That's it. You've edited and/or created a shareable disk image file. It's ready for the next user in the workflow to use. They should just follow these directions and all will be good.
+
+
+ 
+
+
+
+

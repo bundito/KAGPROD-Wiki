@@ -1,0 +1,30 @@
+===== Registering =====
+
+To register for an account, begin by choosing the "Register" option at the top of the page. You will be taken to the Register page
+
+{{:wiki-register.png?400|}}
+
+Fill in your desired username, your real name, and your email address.
+
+You will receive an email with your username and a temporary password.
+
+{{:register-email.png?400|}}
+
+Follow the link (the screenshot shows Dito's test server) and login using your username and the temporary password.
+
+{{:register-login.png?400|}}
+
+Once you've logged in, change that temporary password to one you might actually remember. Click on the **Update Profile** link at the top right side of the page.
+
+{{:register-click-change.png|}}
+
+You will be taken to the Change Profile page, where you can change your password (along with a few other options). Fill in your new password (twice) along with your current password, which was in the confirmation email.
+
+{{:register-change-profile.png?400|}}
+
+Assuming your new passwords match, you'll see a message that your profile has been updated.
+
+{{:register-success.png?400|}}
+
+Click **Log Out** and [[login|log back in]] with your new sensible password.
+

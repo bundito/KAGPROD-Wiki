@@ -1,0 +1,19 @@
+===== Deleting Files =====
+
+This page only applies to deleting files through the [[file_station|web interface]].
+
+As before, select the files you wish to delete. You can shift-click or command/ctrl-click to choose the files you want to delete.
+
+{{:delete-files-chosen.png?400|}}
+
+Then, from either the **Action** button or by right-clicking, choose **Delete**
+
+{{:delete-chosen.png?400|}}
+
+Your files will be deleted. They won't be permanently erased, though - they will be moved to the special **#recycle** folder if you need to undelete them.
+
+==== Undeleting Files ====
+
+The **#recycle** folder is mainly an ordinary folder. To retrieve accidentally deleted files, simply select them and follow the same procedures you would to [[copy]] or [[copy|move]] ordinary files.
+
+At some point, we may implement an automated feature to empty the recycle bins every {x} number of days. So please avoid relying on the recycle bin to save your bacon. This server has plenty of storage space, so feel free to [[make-folder|make your own folders]] for "possibly obsolete" or "no longer needed" files. If you don't touch those in ages, then feel free to dump them in the recycle bin for permanent deletion.

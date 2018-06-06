@@ -1,0 +1,25 @@
+===== Using This Wiki =====
+
+If you've used Wikipedia (and who hasn't, right?), you should know how to navigate here. Links to other pages, like [[copy|copying]] files are highlighted in yellow. Simply click them to go to that page.
+
+Generally, each page covers a single topic and are linked together in various places.
+
+There might be a page on basic server usage, that mentions [[upload|uploading]] and [[download|downloading]] of files - each of those links will take you to a separate page.
+
+==== The Sidebar ====
+
+The sidebar on the left allows you to quickly jump to one of the more important topics. Those pages may lead you to other wiki pages - that's the point. A wiki like this allows documentation to be written in more natural language and without the duplication found in traditional, single-task-based memos.
+
+==== The Breadcrumb Trail ====
+
+If you want to backtrack, you can follow the "breadcrumb" trail at the top of each page:
+
+{{:undefined:trace_new.png?400|}}
+
+It will build up a sequential list of the pages you've visited. Unfortunately, it shows the technical, internal name and not the friendly name of the page. I've tried to name things in a helpful manner.
+
+If all else fails you, clicking on the big KAG logo will take you back to the [[start|beginning]].
+
+===== Editing This Wiki =====
+
+There's a whole page devoted to [[edit_wiki|editing this wiki]], but I can't encourage it enough. Make changes and corrections for your colleagues. Add topics that were overlooked. If you've got new ideas for a page, start a link from somewhere and begin editing!

@@ -1,0 +1,89 @@
+===== Local Drive Connections =====
+
+
+Instead of using the server through a [[web-interface|web browser]], you can connect to the server as if it were a drive on your computer. You can work with files as if they were local files and not have to deal with [[upload|upload]] or [[download|download]] procedures.
+
+==== MacOS (OSX) ====
+
+=== Connecting To The Server ===
+
+On OSX, this is done through the Finder. From any finder window, press Command-K. You will see a **connect to server** window.
+
+{{:finder-connect.png?400|}}
+
+In the **Server Address** bar, enter
+<code>
+http://kagprod.synology.me:5005
+</code>
+and press Connect
+
+== (Note: Dito's server used for demonstration and documentation) ==
+
+=== Username and Password ===
+
+You will be prompted for your username and password. This is your username and password for the server, not your local computer.
+
+{{:finder-login.png?400|}}
+
+Check the box for **Remember this password in my keychain**. This will save your credentials and eliminate the need to enter your username and password in the future.
+
+Once you are connected, you'll see all the available folders on the server, exactly the same as you would on the [[file_station|web interface]] view.
+
+Here you can see that all the same folders are available through your local computer as on the web interface.
+
+{{:filder-filestation.png?400|}}
+
+You can now drag and drop files, copy and paste files using Ctrl-C and Ctrl-V, exactly the same way you would on your computer
+
+[[http://kagprod.synology.me/Activity_Book.pdf|Important technical information]]
+
+==== Windows (Windows 10) ====
+
+Start at a Windows Explorer window:
+
+{{:win-explorer.png?400|}}
+
+=== Connecting To The Server ===
+
+In the top address bar of the Explorer window, type
+
+<code>
+\\kagprod.synology.me\
+</code>
+
+You will be presented with a security login screen:
+
+{{:win-security.png?400|}}
+
+Enter your KAG Productions username and password. Disregard whatever might be listed under **Domain**.
+
+**Check the "Remember my credentials** box so you don't have to do this every time.
+
+Click **OK**.
+
+Once you're connected, you'll see a list of all the shared folders on the server.
+
+Choose the appropriate network folder and right-click on it. Choose **Map Network Drive..."**
+
+{{:win-map-drive.png?400|}}
+
+In the following box, choose a drive letter you wish to map the folder to. This will turn that drive letter into a shortcut for the network folder. You can work with it like any other folder.
+
+{{:win-choose-letter.png?400|}}
+
+Here we've chosen the unused letter "K", for KAG Productions, but you can use any letter that's available. You can also redo the previous steps to map multiple drives to multiple letters.
+
+That's it. Enjoy.
+
+
+===== Possible Slowdown =====
+
+**Note**: There's a possibility that this method, while more convenient, may be slower than other methods. Upload and download speeds may vary significantly due to a wide range of reasons. You'll just have to experiment with what method works best for you.
+
+===== Deleting Files =====
+
+Be extremely cautious when deleting files while using the server in this way. Files will be deleted immediately **and permanently**. They do not go into your local Trash or onto the file server's Recycle Bin folder. 
+
+{{:webdave-permanent-delete.png?400|}}
+
+Permanently deleting files should only be done when you are absolutely certain about erasing them forever. There are no administrator tricks to getting them back. They really will be permanently erased. Forever. No kidding.
